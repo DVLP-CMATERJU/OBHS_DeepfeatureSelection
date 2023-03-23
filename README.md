@@ -5,7 +5,7 @@
         csv file
     3. You can change the file name as per your choice
     4. In gen_plot() function => function to generate scatter plot change label file written under variable y 
-    5. Then run and input Harmony Memory Consideration Rate(HMCR), Pitch Adjustment Rate(PAR) and Number of 
+    5. Then run and input Harmony Memory Size(HMS), Harmony Memory Consideration Rate(HMCR), Pitch Adjustment Rate(PAR) and Number of 
         iterations
     6. random_initialise() function randomly initialses the population within 0 and 2. You can change the range 
         by updating self.low and self.high parameter.
