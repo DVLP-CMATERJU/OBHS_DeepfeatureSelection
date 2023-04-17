@@ -1,4 +1,4 @@
-# OBHS_DeepfeatureSelection
+# DeepfeatureSelection
 - To run the OBHS code :
     1. change the training path and training label path under main function
     2. Also change training file path at the end of Optimize function to store best selected features in new 
